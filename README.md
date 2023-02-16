@@ -7,7 +7,7 @@ The application consists of two Docker containers:
 - A frontend website written in Python Flask
 - A backend database using PostgreSQL
 
-It is a simple message-posting application  (referred to as Echo app in the instructions) where messages entered by the user in the web interface are written to the PostgreSQL database. The web front-end shows all messages entered by users.
+It is a simple message-posting application (referred to as Echo app in the instructions) where messages entered by the user in the web interface are written to the PostgreSQL database. The web front-end shows all messages entered by users.
 
 ## Instructions
 
@@ -16,3 +16,5 @@ It is a simple message-posting application  (referred to as Echo app in the inst
 - [2. Secret Scanning](instructions/02_secret_scanning.md)
 - [3. CI/CD](instructions/03_cicd.md)
 - [4. Secrets](instructions/04_secrets.md)
+
+There are no secrets here.
