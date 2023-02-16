@@ -3,4 +3,8 @@ fileignoreconfig:
     checksum: de4e6d656717382c9c5e4f666ba9be59649d7e185490b921105b47cbdf8075bb
   - filename: docker-compose.yml
     checksum: 041cf7d5ba27c545cf1b76277d0c293431fcbe4d389b0e4025fb6182a6cbe523
+  - filename: .github/actions/prep/entrypoint.sh
+    checksum: 016d09ccff17db9a84fbd0eede9a7ca0907657162c5d2d4a920129786c3eb032
+  - filename: .github/workflows/lint_test.yml
+    checksum: c28a9b9316a2ee3d8bd4f15a1a4d3cb9d73bba61c64127f8845d08566119dfec
 version: ""
